@@ -149,7 +149,7 @@ window.addEventListener('error', (event) => {
 // Use animations and transitions for visual effects
 // Consider accessibility features
 
-
+console.log("heloe");
 
 
 // script.js  
